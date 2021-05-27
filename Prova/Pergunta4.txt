@@ -1,0 +1,10 @@
+Crie uma função que receba dois números inteiros por parâmetro, n1 e n2. intervalo(n1,n2)
+
+A função deve imprimir na tela uma sequência de 5 números fracionários partindo de n1 até atingir n2, com intervalos regulares.
+
+A sequência pode ser tanto crescente quanto decrescente. 
+
+Exemplos:
+
+intervalo(3, 12) Sequência impressa na tela: 3,00 5,25 7,50 9,75 12,00
+intervalo(35, 18) Sequência impressa na tela: 35,00 30,75 26,50 22,25 18,00
