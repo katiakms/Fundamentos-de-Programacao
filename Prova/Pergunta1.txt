@@ -1,7 +1,0 @@
-Foi feita uma pesquisa entre os habitantes de uma região e coletados os dados de altura, a idade e sexo das pessoas. Faça um programa que leia 50 dados diferentes e, ao final, informe: 
-
-A.a maior e a menor altura encontradas 
-B.a média de altura das mulheres 
-C.a média de idade da população 
-D.o percentual de crianças até 12 anos na população 
-E.a altura e a idade do homem mais baixo 

@@ -1,5 +1,0 @@
-Crie uma função que receba por parâmetro três valores inteiros positivos: início, fim e num. A função deve imprimir na tela todos os números pares menores do que o num e todos os ímpares maiores do que num do início ao fim do intervalo. Num não deve ser impresso.
-
-Exemplo:
-
-Se for informado: paresImpares(10, 30, 20), o programa deve imprimir na tela: 10, 12, 14, 16, 18, 21, 23, 25, 27, 29.
